@@ -1,0 +1,1 @@
+A program that constructs a balanced binary search tree from a given sorted array.
